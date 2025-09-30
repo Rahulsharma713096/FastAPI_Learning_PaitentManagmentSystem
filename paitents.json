@@ -1,298 +1,462 @@
 [
   {
-    "name": "Emma Garcia",
-    "city": "New York",
-    "age": 32,
-    "gender": "Female",
-    "height": 165,
-    "weight": 60,
-    "bmi": 22.04,
-    "verdict": "Normal"
-  },
-  {
-    "name": "James Khan",
-    "city": "Los Angeles",
-    "age": 45,
-    "gender": "Male",
-    "height": 178,
-    "weight": 85,
-    "bmi": 26.81,
-    "verdict": "Overweight"
-  },
-  {
-    "name": "Olivia Martinez",
-    "city": "Chicago",
-    "age": 29,
-    "gender": "Female",
-    "height": 160,
-    "weight": 50,
-    "bmi": 19.53,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Noah Singh",
-    "city": "Houston",
-    "age": 37,
-    "gender": "Male",
-    "height": 170,
-    "weight": 100,
-    "bmi": 34.6,
-    "verdict": "Obese"
-  },
-  {
-    "name": "Sophia Brown",
-    "city": "Phoenix",
-    "age": 41,
-    "gender": "Female",
-    "height": 155,
-    "weight": 45,
-    "bmi": 18.73,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Lucas Smith",
-    "city": "Philadelphia",
-    "age": 23,
-    "gender": "Male",
-    "height": 182,
-    "weight": 78,
-    "bmi": 23.53,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Zara Patel",
-    "city": "San Antonio",
-    "age": 50,
-    "gender": "Female",
-    "height": 162,
-    "weight": 90,
-    "bmi": 34.29,
-    "verdict": "Obese"
-  },
-  {
-    "name": "Ethan Lee",
-    "city": "San Diego",
-    "age": 28,
-    "gender": "Male",
-    "height": 176,
-    "weight": 66,
-    "bmi": 21.31,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Chloe Johnson",
-    "city": "Dallas",
-    "age": 36,
-    "gender": "Female",
-    "height": 168,
-    "weight": 72,
-    "bmi": 25.51,
-    "verdict": "Overweight"
-  },
-  {
-    "name": "Aarav Garcia",
-    "city": "San Jose",
-    "age": 60,
-    "gender": "Male",
-    "height": 172,
-    "weight": 68,
-    "bmi": 22.99,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Isla Martinez",
-    "city": "New York",
+    "name": "Ava Smith",
+    "city": "Delhi",
     "age": 34,
-    "gender": "Female",
-    "height": 160,
-    "weight": 40,
-    "bmi": 15.62,
-    "verdict": "Underweight"
-  },
-  {
-    "name": "John Doe",
-    "city": "Los Angeles",
-    "age": 55,
-    "gender": "Male",
-    "height": 180,
-    "weight": 95,
-    "bmi": 29.32,
-    "verdict": "Overweight"
-  },
-  {
-    "name": "Fatima Khan",
-    "city": "Chicago",
-    "age": 27,
-    "gender": "Female",
-    "height": 150,
-    "weight": 49,
-    "bmi": 21.78,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Michael Singh",
-    "city": "Houston",
-    "age": 48,
-    "gender": "Male",
-    "height": 175,
-    "weight": 105,
-    "bmi": 34.29,
-    "verdict": "Obese"
-  },
-  {
-    "name": "Priya Lee",
-    "city": "Phoenix",
-    "age": 39,
-    "gender": "Female",
-    "height": 158,
-    "weight": 62,
-    "bmi": 24.84,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Liam Smith",
-    "city": "Philadelphia",
-    "age": 44,
-    "gender": "Male",
-    "height": 185,
-    "weight": 92,
-    "bmi": 26.88,
-    "verdict": "Overweight"
-  },
-  {
-    "name": "Alicia Johnson",
-    "city": "San Antonio",
-    "age": 30,
-    "gender": "Female",
-    "height": 162,
-    "weight": 58,
-    "bmi": 22.1,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Samir Brown",
-    "city": "San Diego",
-    "age": 62,
-    "gender": "Male",
-    "height": 168,
-    "weight": 74,
-    "bmi": 26.22,
-    "verdict": "Overweight"
-  },
-  {
-    "name": "Amelia Patel",
-    "city": "Dallas",
-    "age": 40,
-    "gender": "Female",
-    "height": 154,
-    "weight": 81,
-    "bmi": 34.14,
-    "verdict": "Obese"
-  },
-  {
-    "name": "Ethan Doe",
-    "city": "San Jose",
-    "age": 31,
-    "gender": "Male",
-    "height": 174,
-    "weight": 72,
-    "bmi": 23.77,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Emma Singh",
-    "city": "New York",
-    "age": 25,
-    "gender": "Female",
-    "height": 168,
-    "weight": 70,
-    "bmi": 24.8,
-    "verdict": "Normal"
-  },
-  {
-    "name": "James Lee",
-    "city": "Los Angeles",
-    "age": 52,
-    "gender": "Male",
-    "height": 176,
-    "weight": 115,
-    "bmi": 37.12,
-    "verdict": "Obese"
-  },
-  {
-    "name": "Chloe Garcia",
-    "city": "Chicago",
-    "age": 29,
-    "gender": "Female",
-    "height": 158,
-    "weight": 65,
-    "bmi": 26.03,
-    "verdict": "Overweight"
-  },
-  {
-    "name": "Noah Khan",
-    "city": "Houston",
-    "age": 43,
-    "gender": "Male",
-    "height": 172,
-    "weight": 60,
-    "bmi": 20.28,
-    "verdict": "Normal"
-  },
-  {
-    "name": "Sophia Smith",
-    "city": "Phoenix",
-    "age": 35,
-    "gender": "Female",
+    "gender": "female",
     "height": 165,
-    "weight": 95,
-    "bmi": 34.9,
-    "verdict": "Obese"
+    "weight": 62,
+    "bmi": 22.8,
+    "verdict": "Healthy"
   },
   {
-    "name": "Lucas Johnson",
-    "city": "Philadelphia",
-    "age": 61,
-    "gender": "Male",
-    "height": 180,
-    "weight": 77,
-    "bmi": 23.77,
-    "verdict": "Normal"
+    "name": "Rohan Patel",
+    "city": "Mumbai",
+    "age": 45,
+    "gender": "male",
+    "height": 172,
+    "weight": 80,
+    "bmi": 27.0,
+    "verdict": "At Risk"
   },
   {
-    "name": "Zara Martinez",
-    "city": "San Antonio",
-    "age": 24,
-    "gender": "Female",
-    "height": 160,
-    "weight": 44,
-    "bmi": 17.19,
-    "verdict": "Underweight"
-  },
-  {
-    "name": "Mason Doe",
-    "city": "San Diego",
-    "age": 55,
-    "gender": "Male",
-    "height": 178,
-    "weight": 88,
-    "bmi": 27.77,
-    "verdict": "Overweight"
-  },
-  {
-    "name": "Isla Singh",
-    "city": "Dallas",
-    "age": 33,
-    "gender": "Female",
+    "name": "Priya Verma",
+    "city": "Chennai",
+    "age": 29,
+    "gender": "female",
     "height": 158,
-    "weight": 52,
-    "bmi": 20.83,
-    "verdict": "Normal"
+    "weight": 54,
+    "bmi": 21.6,
+    "verdict": "Healthy"
   },
   {
-    "name": "Aarav Lee",
-    "city": "San Jose",
-    "age": 46
-   
+    "name": "Arjun Singh",
+    "city": "Kolkata",
+    "age": 52,
+    "gender": "male",
+    "height": 170,
+    "weight": 90,
+    "bmi": 31.1,
+    "verdict": "Needs Attention"
+  },
+  {
+    "name": "Sara Khan",
+    "city": "Bangalore",
+    "age": 41,
+    "gender": "female",
+    "height": 160,
+    "weight": 70,
+    "bmi": 27.3,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Vikram Joshi",
+    "city": "Hyderabad",
+    "age": 37,
+    "gender": "male",
+    "height": 175,
+    "weight": 68,
+    "bmi": 22.2,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Neha Gupta",
+    "city": "Pune",
+    "age": 26,
+    "gender": "female",
+    "height": 155,
+    "weight": 48,
+    "bmi": 19.9,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Kabir Mehra",
+    "city": "Ahmedabad",
+    "age": 60,
+    "gender": "male",
+    "height": 168,
+    "weight": 95,
+    "bmi": 33.7,
+    "verdict": "Needs Attention"
+  },
+  {
+    "name": "Simran Kaur",
+    "city": "Jaipur",
+    "age": 32,
+    "gender": "female",
+    "height": 162,
+    "weight": 59,
+    "bmi": 22.5,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Aman Sharma",
+    "city": "Lucknow",
+    "age": 39,
+    "gender": "male",
+    "height": 180,
+    "weight": 85,
+    "bmi": 26.2,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Meera Nair",
+    "city": "Thiruvananthapuram",
+    "age": 50,
+    "gender": "female",
+    "height": 157,
+    "weight": 75,
+    "bmi": 30.5,
+    "verdict": "Needs Attention"
+  },
+  {
+    "name": "Rajiv Das",
+    "city": "Guwahati",
+    "age": 28,
+    "gender": "male",
+    "height": 169,
+    "weight": 65,
+    "bmi": 22.8,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Tanya Roy",
+    "city": "Bhopal",
+    "age": 36,
+    "gender": "female",
+    "height": 163,
+    "weight": 60,
+    "bmi": 22.6,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Deepak Kumar",
+    "city": "Patna",
+    "age": 43,
+    "gender": "male",
+    "height": 176,
+    "weight": 78,
+    "bmi": 25.2,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Anjali Mishra",
+    "city": "Indore",
+    "age": 31,
+    "gender": "female",
+    "height": 159,
+    "weight": 53,
+    "bmi": 21.0,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Mohit Saini",
+    "city": "Chandigarh",
+    "age": 47,
+    "gender": "male",
+    "height": 174,
+    "weight": 88,
+    "bmi": 29.1,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Riya Sen",
+    "city": "Kochi",
+    "age": 24,
+    "gender": "female",
+    "height": 161,
+    "weight": 50,
+    "bmi": 19.3,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Siddharth Jain",
+    "city": "Nagpur",
+    "age": 55,
+    "gender": "male",
+    "height": 178,
+    "weight": 92,
+    "bmi": 29.0,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Pooja Agarwal",
+    "city": "Surat",
+    "age": 38,
+    "gender": "female",
+    "height": 164,
+    "weight": 68,
+    "bmi": 25.3,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Harsh Vardhan",
+    "city": "Kanpur",
+    "age": 49,
+    "gender": "male",
+    "height": 171,
+    "weight": 82,
+    "bmi": 28.0,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Sneha Reddy",
+    "city": "Visakhapatnam",
+    "age": 27,
+    "gender": "female",
+    "height": 156,
+    "weight": 52,
+    "bmi": 21.4,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Yash Thakur",
+    "city": "Vadodara",
+    "age": 42,
+    "gender": "male",
+    "height": 173,
+    "weight": 77,
+    "bmi": 25.7,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Isha Malhotra",
+    "city": "Ludhiana",
+    "age": 35,
+    "gender": "female",
+    "height": 160,
+    "weight": 58,
+    "bmi": 22.7,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Karan Kapoor",
+    "city": "Agra",
+    "age": 53,
+    "gender": "male",
+    "height": 177,
+    "weight": 91,
+    "bmi": 29.1,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Divya Joshi",
+    "city": "Nashik",
+    "age": 30,
+    "gender": "female",
+    "height": 158,
+    "weight": 55,
+    "bmi": 22.0,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Manish Tiwari",
+    "city": "Meerut",
+    "age": 44,
+    "gender": "male",
+    "height": 172,
+    "weight": 83,
+    "bmi": 28.1,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Shreya Ghosh",
+    "city": "Ranchi",
+    "age": 33,
+    "gender": "female",
+    "height": 161,
+    "weight": 57,
+    "bmi": 22.0,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Nikhil Bansal",
+    "city": "Jodhpur",
+    "age": 48,
+    "gender": "male",
+    "height": 170,
+    "weight": 86,
+    "bmi": 29.8,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Aarti Desai",
+    "city": "Coimbatore",
+    "age": 40,
+    "gender": "female",
+    "height": 162,
+    "weight": 65,
+    "bmi": 24.8,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Suresh Pillai",
+    "city": "Madurai",
+    "age": 56,
+    "gender": "male",
+    "height": 179,
+    "weight": 94,
+    "bmi": 29.3,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Rashmi Singh",
+    "city": "Vijayawada",
+    "age": 25,
+    "gender": "female",
+    "height": 154,
+    "weight": 49,
+    "bmi": 20.6,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Aditya Rao",
+    "city": "Mysore",
+    "age": 51,
+    "gender": "male",
+    "height": 175,
+    "weight": 89,
+    "bmi": 29.1,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Kavya Menon",
+    "city": "Noida",
+    "age": 28,
+    "gender": "female",
+    "height": 159,
+    "weight": 56,
+    "bmi": 22.2,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Rakesh Yadav",
+    "city": "Faridabad",
+    "age": 46,
+    "gender": "male",
+    "height": 174,
+    "weight": 84,
+    "bmi": 27.7,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Naina Sethi",
+    "city": "Ghaziabad",
+    "age": 37,
+    "gender": "female",
+    "height": 160,
+    "weight": 61,
+    "bmi": 23.8,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Aakash Mittal",
+    "city": "Amritsar",
+    "age": 54,
+    "gender": "male",
+    "height": 178,
+    "weight": 87,
+    "bmi": 27.5,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Pallavi Chatterjee",
+    "city": "Jabalpur",
+    "age": 29,
+    "gender": "female",
+    "height": 157,
+    "weight": 52,
+    "bmi": 21.1,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Sanjay Dutt",
+    "city": "Gwalior",
+    "age": 58,
+    "gender": "male",
+    "height": 180,
+    "weight": 96,
+    "bmi": 29.6,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Ruchi Jain",
+    "city": "Dehradun",
+    "age": 34,
+    "gender": "female",
+    "height": 162,
+    "weight": 60,
+    "bmi": 22.9,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Tarun Bhatia",
+    "city": "Raipur",
+    "age": 41,
+    "gender": "male",
+    "height": 173,
+    "weight": 79,
+    "bmi": 26.4,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Shalini Pandey",
+    "city": "Aurangabad",
+    "age": 32,
+    "gender": "female",
+    "height": 158,
+    "weight": 54,
+    "bmi": 21.6,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Dhruv Malhotra",
+    "city": "Dhanbad",
+    "age": 39,
+    "gender": "male",
+    "height": 176,
+    "weight": 81,
+    "bmi": 26.2,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Ankita Sinha",
+    "city": "Siliguri",
+    "age": 27,
+    "gender": "female",
+    "height": 155,
+    "weight": 50,
+    "bmi": 20.8,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Prateek Saxena",
+    "city": "Varanasi",
+    "age": 44,
+    "gender": "male",
+    "height": 172,
+    "weight": 80,
+    "bmi": 27.0,
+    "verdict": "At Risk"
+  },
+  {
+    "name": "Mona Bhatt",
+    "city": "Udaipur",
+    "age": 36,
+    "gender": "female",
+    "height": 160,
+    "weight": 59,
+    "bmi": 23.0,
+    "verdict": "Healthy"
+  },
+  {
+    "name": "Gaurav Sharma",
+    "city": "Allahabad",
+    "age": 50,
+    "gender": "male",
+    "height": 175,
+    "weight": 88,
+    "bmi": 28.7,
+    "verdict": "At Risk"
   }
 ]
