@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Emma Garcia",
+    "city": "New York",
+    "age": 32,
+    "gender": "Female",
+    "height": 165,
+    "weight": 60,
+    "bmi": 22.04,
+    "verdict": "Normal"
+  },
+  {
+    "name": "James Khan",
+    "city": "Los Angeles",
+    "age": 45,
+    "gender": "Male",
+    "height": 178,
+    "weight": 85,
+    "bmi": 26.81,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Olivia Martinez",
+    "city": "Chicago",
+    "age": 29,
+    "gender": "Female",
+    "height": 160,
+    "weight": 50,
+    "bmi": 19.53,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Noah Singh",
+    "city": "Houston",
+    "age": 37,
+    "gender": "Male",
+    "height": 170,
+    "weight": 100,
+    "bmi": 34.6,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Sophia Brown",
+    "city": "Phoenix",
+    "age": 41,
+    "gender": "Female",
+    "height": 155,
+    "weight": 45,
+    "bmi": 18.73,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Lucas Smith",
+    "city": "Philadelphia",
+    "age": 23,
+    "gender": "Male",
+    "height": 182,
+    "weight": 78,
+    "bmi": 23.53,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Zara Patel",
+    "city": "San Antonio",
+    "age": 50,
+    "gender": "Female",
+    "height": 162,
+    "weight": 90,
+    "bmi": 34.29,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Ethan Lee",
+    "city": "San Diego",
+    "age": 28,
+    "gender": "Male",
+    "height": 176,
+    "weight": 66,
+    "bmi": 21.31,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Chloe Johnson",
+    "city": "Dallas",
+    "age": 36,
+    "gender": "Female",
+    "height": 168,
+    "weight": 72,
+    "bmi": 25.51,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Aarav Garcia",
+    "city": "San Jose",
+    "age": 60,
+    "gender": "Male",
+    "height": 172,
+    "weight": 68,
+    "bmi": 22.99,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Isla Martinez",
+    "city": "New York",
+    "age": 34,
+    "gender": "Female",
+    "height": 160,
+    "weight": 40,
+    "bmi": 15.62,
+    "verdict": "Underweight"
+  },
+  {
+    "name": "John Doe",
+    "city": "Los Angeles",
+    "age": 55,
+    "gender": "Male",
+    "height": 180,
+    "weight": 95,
+    "bmi": 29.32,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Fatima Khan",
+    "city": "Chicago",
+    "age": 27,
+    "gender": "Female",
+    "height": 150,
+    "weight": 49,
+    "bmi": 21.78,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Michael Singh",
+    "city": "Houston",
+    "age": 48,
+    "gender": "Male",
+    "height": 175,
+    "weight": 105,
+    "bmi": 34.29,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Priya Lee",
+    "city": "Phoenix",
+    "age": 39,
+    "gender": "Female",
+    "height": 158,
+    "weight": 62,
+    "bmi": 24.84,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Liam Smith",
+    "city": "Philadelphia",
+    "age": 44,
+    "gender": "Male",
+    "height": 185,
+    "weight": 92,
+    "bmi": 26.88,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Alicia Johnson",
+    "city": "San Antonio",
+    "age": 30,
+    "gender": "Female",
+    "height": 162,
+    "weight": 58,
+    "bmi": 22.1,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Samir Brown",
+    "city": "San Diego",
+    "age": 62,
+    "gender": "Male",
+    "height": 168,
+    "weight": 74,
+    "bmi": 26.22,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Amelia Patel",
+    "city": "Dallas",
+    "age": 40,
+    "gender": "Female",
+    "height": 154,
+    "weight": 81,
+    "bmi": 34.14,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Ethan Doe",
+    "city": "San Jose",
+    "age": 31,
+    "gender": "Male",
+    "height": 174,
+    "weight": 72,
+    "bmi": 23.77,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Emma Singh",
+    "city": "New York",
+    "age": 25,
+    "gender": "Female",
+    "height": 168,
+    "weight": 70,
+    "bmi": 24.8,
+    "verdict": "Normal"
+  },
+  {
+    "name": "James Lee",
+    "city": "Los Angeles",
+    "age": 52,
+    "gender": "Male",
+    "height": 176,
+    "weight": 115,
+    "bmi": 37.12,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Chloe Garcia",
+    "city": "Chicago",
+    "age": 29,
+    "gender": "Female",
+    "height": 158,
+    "weight": 65,
+    "bmi": 26.03,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Noah Khan",
+    "city": "Houston",
+    "age": 43,
+    "gender": "Male",
+    "height": 172,
+    "weight": 60,
+    "bmi": 20.28,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Sophia Smith",
+    "city": "Phoenix",
+    "age": 35,
+    "gender": "Female",
+    "height": 165,
+    "weight": 95,
+    "bmi": 34.9,
+    "verdict": "Obese"
+  },
+  {
+    "name": "Lucas Johnson",
+    "city": "Philadelphia",
+    "age": 61,
+    "gender": "Male",
+    "height": 180,
+    "weight": 77,
+    "bmi": 23.77,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Zara Martinez",
+    "city": "San Antonio",
+    "age": 24,
+    "gender": "Female",
+    "height": 160,
+    "weight": 44,
+    "bmi": 17.19,
+    "verdict": "Underweight"
+  },
+  {
+    "name": "Mason Doe",
+    "city": "San Diego",
+    "age": 55,
+    "gender": "Male",
+    "height": 178,
+    "weight": 88,
+    "bmi": 27.77,
+    "verdict": "Overweight"
+  },
+  {
+    "name": "Isla Singh",
+    "city": "Dallas",
+    "age": 33,
+    "gender": "Female",
+    "height": 158,
+    "weight": 52,
+    "bmi": 20.83,
+    "verdict": "Normal"
+  },
+  {
+    "name": "Aarav Lee",
+    "city": "San Jose",
+    "age": 46
+   
+  }
+]
